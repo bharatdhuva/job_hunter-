@@ -7,7 +7,7 @@ Copyright (C) 2024 Sai Vignesh Golla
 License:    GNU Affero General Public License
             https://www.gnu.org/licenses/agpl-3.0.en.html
             
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
+GitHub:     https://github.com/bharatdhuva
 
 Support me: https://github.com/sponsors/GodsScion
 
@@ -125,8 +125,8 @@ bharatdhuva27@gmail.com | +91-9624828661
 user_information_all ="""
 BHARAT DHUVA
 Contact: +91-9624828661 | bharatdhuva27@gmail.com | Vadodara, Gujarat, India
-LinkedIn: linkedin.com/in/bharatdhuva27
-GitHub: github.com/bharatdhuva
+LinkedIn: https://www.linkedin.com/in/bharatdhuva27/
+GitHub: https://github.com/bharatdhuva
 
 Summary:
 Third-year CS student at MS University Baroda building production-grade platforms independently. Built InterviewOS (WebRTC + Y.js CRDT collaborative interview platform), Outly (GPT-4 career automation + Gmail API + Redis queue), and Bookstage (ASP.NET Core ticket booking + seat locking engine). Ex-intern at YV Thinkers. Strong in clean architecture, SOLID principles, REST APIs, and real-time systems.
